@@ -1,6 +1,5 @@
 # 🚁 DIY ESP32-C3 Micro-Drone
 
-*(Insérer ici une photo de ton drone monté)*
 `![Photo du drone monté](images/nom_de_la_photo.jpg)`
 
 ## 1. Introduction et Objectif du Projet
@@ -8,7 +7,6 @@ L'objectif de ce projet est la conception de A à Z d'un mini-drone quadricoptè
 
 ## 2. 🛠️ Architecture Matérielle (Hardware)
 
-*(Insérer ici une photo de ton PCB nu ou de l'impression 3D)*
 `![Photo PCB et Châssis](images/nom_de_la_photo.jpg)`
 
 * **Microcontrôleur :** ESP32-C3 Super Mini (Wi-Fi/Bluetooth, monocœur RISC-V).
@@ -54,7 +52,6 @@ Au cours du développement, plusieurs défis techniques ont été rencontrés et
 * **Diagnostic :** Court-circuit ou inversion de polarité (VCC / GND) mettant l'alimentation en sécurité et bloquant le bus.
 * **Action :** Isolement immédiat du circuit et inspection du câblage pour prévenir la destruction des composants.
 
-*(Insérer ici des captures d'écran du moniteur série ou d'autres photos de debug)*
 `![Débogage](images/nom_de_la_photo.jpg)`
 
 ## 5. 🚧 Problèmes Actuels et Améliorations Matérielles
