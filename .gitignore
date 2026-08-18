@@ -1,0 +1,31 @@
+# Ignorer les questions d'entretien
+Interview_Questions.md
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# KiCad
+*.bak
+*-bak
+*.bck
+*-bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.tmp
+*.lck
+
+# Arduino / C++
+*.o
+*.elf
+*.bin
+*.hex
+*.a
+build/
+.vscode/
+
+# FreeCAD
+*.FCBak
+*.swp

@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "esp32_mini") (type "Legacy") (uri "C:/Users/boume/Downloads/ESP32_mini_KiCad_Library-master/ESP32_mini.lib") (options "") (descr ""))
+	(lib (name "esp32-mini-footprint") (type "") (uri "C:/Users/boume/Downloads/ESP32_mini_KiCad_Library-master/ESP32_mini.pretty") (options "") (descr ""))
+)
