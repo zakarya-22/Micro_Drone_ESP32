@@ -1,13 +1,11 @@
 # 🚁 DIY ESP32-C3 Micro-Drone
 
-`![Photo du drone monté](images/nom_de_la_photo.jpg)`
 
 ## 1. Introduction et Objectif du Projet
 L'objectif de ce projet est la conception de A à Z d'un mini-drone quadricoptère basé sur le microcontrôleur ESP32-C3. Ce projet multidisciplinaire couvre le prototypage mécanique, la conception électronique et le développement logiciel embarqué. Il implique le contrôle PWM de 4 moteurs à courant continu via des MOSFETs, la lecture de capteurs d'attitude (IMU) via I2C, et la gestion d'une alimentation par batterie LiPo.
 
 ## 2. 🛠️ Architecture Matérielle (Hardware)
 
-`![Photo PCB et Châssis](images/nom_de_la_photo.jpg)`
 
 * **Microcontrôleur :** ESP32-C3 Super Mini (Wi-Fi/Bluetooth, monocœur RISC-V).
 * **Actionneurs :** 4 x Moteurs à courant continu (Coreless) avec hélices profilées.
@@ -52,7 +50,6 @@ Au cours du développement, plusieurs défis techniques ont été rencontrés et
 * **Diagnostic :** Court-circuit ou inversion de polarité (VCC / GND) mettant l'alimentation en sécurité et bloquant le bus.
 * **Action :** Isolement immédiat du circuit et inspection du câblage pour prévenir la destruction des composants.
 
-`![Débogage](images/nom_de_la_photo.jpg)`
 
 ## 5. 🚧 Problèmes Actuels et Améliorations Matérielles
 
